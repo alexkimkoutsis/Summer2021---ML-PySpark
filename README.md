@@ -1,7 +1,7 @@
 # Titanic Machine Learning Analysis
 This is a machine learning analysis of the Titanic dataset.
 
-The goal of the project was to correctly predict passenger survival based on their traits, such as gender, age, and social class.
+The goal of the project was to correctly predict Titanic passenger survival based on their traits such as gender, age, and social class.
 
 These analyses were performed in Jupyter notebooks and ran in two parts.
 
